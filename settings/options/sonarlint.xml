@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9adf9cdf98dfc8df9ddf98df92df98df9edf9ddfcedf9fdfc8df9ddf98df9cdfcedf9bdf9ddf98dfc9df9ddf9adfcfdfcbdfcfdf9bdfc9df9edf9edf9ddf98df92dfcfdf9ddf93dfcfdfc9df9adf9d</token>
+          <option name="name" value="Keanu" />
+          <organizationKey>improbable-keanu</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
